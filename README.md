@@ -6,7 +6,7 @@ Every tool runs entirely in your browser. Photos are never uploaded to any serve
 
 | Tool | What it does |
 |---|---|
-| [Resize photo to 1x1 inch](https://toolgale.top/resize-photo-to-1x1/) | 1×1 in (25.4 mm) ID photo, 300×300 px at 300 DPI; 15 copies on a 4×6 print |
+| [Resize photo to 1x1 inch](https://toolgale.top/resize-photo-to-1x1/) | 1×1 in (25.4 mm) ID photo, 300×300 px at 300 DPI; 15 on this tool’s 4×6 print sheet |
 | [Resize photo to 2x2 inches](https://toolgale.top/resize-photo-to-2x2/) | US passport, visa and USCIS photo, 600×600 px at 300 DPI |
 | [Resize photo to 600x600 pixels](https://toolgale.top/resize-photo-to-600x600/) | DS-160 and DV lottery digital photo, JPEG kept at 240 KB or less |
 | [Resize photo to 35x45 mm](https://toolgale.top/resize-photo-to-35x45/) | UK, Schengen visa and EU passport photos; UK online option keeps the photo uncropped (min 600×750 px, 50 KB–10 MB) |
